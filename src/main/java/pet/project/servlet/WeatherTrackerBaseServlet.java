@@ -16,6 +16,7 @@ import pet.project.exception.authentication.UserExistsException;
 import pet.project.exception.authentication.UserNotFoundException;
 import pet.project.exception.authentication.WrongPasswordException;
 import pet.project.model.Session;
+import pet.project.util.ThymeleafUtil;
 
 import java.io.IOException;
 import java.time.LocalDateTime;
